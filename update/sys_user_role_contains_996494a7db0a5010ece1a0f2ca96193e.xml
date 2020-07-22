@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="unapppergiacomo" name="unapppergiacomo">5d6494a7db0a5010ece1a0f2ca961936</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 15:43:02</sys_created_on>
+        <sys_id>996494a7db0a5010ece1a0f2ca96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.unapppergiacomo</sys_name>
+        <sys_package display_value="unapppergiacomo" source="x_414554_unappperg">a4349867db0a5010ece1a0f2ca9619fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unapppergiacomo">a4349867db0a5010ece1a0f2ca9619fe</sys_scope>
+        <sys_update_name>sys_user_role_contains_996494a7db0a5010ece1a0f2ca96193e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 15:43:02</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

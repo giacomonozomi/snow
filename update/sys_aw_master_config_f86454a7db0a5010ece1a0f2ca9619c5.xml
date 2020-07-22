@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="unapppergiacomo">786454a7db0a5010ece1a0f2ca9619c6</compiled_page_registry>
+        <description>ma che oh!</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="unapppergiacomo Search Context Config">7c6454a7db0a5010ece1a0f2ca9619c3</global_search_data>
+        <name>unapppergiacomo</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 15:43:00</sys_created_on>
+        <sys_id>f86454a7db0a5010ece1a0f2ca9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>unapppergiacomo</sys_name>
+        <sys_package display_value="unapppergiacomo" source="x_414554_unappperg">a4349867db0a5010ece1a0f2ca9619fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unapppergiacomo">a4349867db0a5010ece1a0f2ca9619fe</sys_scope>
+        <sys_update_name>sys_aw_master_config_f86454a7db0a5010ece1a0f2ca9619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 15:43:00</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_url>unapppergiacomo</workspace_url>
+    </sys_aw_master_config>
+</record_update>

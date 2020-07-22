@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="unapppergiacomo Incident">6274d4a7db0a5010ece1a0f2ca961993</data_item>
+        <interleaved_field/>
+        <name>Incident Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 15:43:23</sys_created_on>
+        <sys_id>ea74d4a7db0a5010ece1a0f2ca961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Item Stream</sys_name>
+        <sys_package display_value="unapppergiacomo" source="x_414554_unappperg">a4349867db0a5010ece1a0f2ca9619fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unapppergiacomo">a4349867db0a5010ece1a0f2ca9619fe</sys_scope>
+        <sys_update_name>sys_sg_item_stream_ea74d4a7db0a5010ece1a0f2ca961997</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 15:43:23</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

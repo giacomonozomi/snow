@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home unapppergiacomo</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 15:43:23</sys_created_on>
+        <sys_id>ea74d4a7db0a5010ece1a0f2ca961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home unapppergiacomo</sys_name>
+        <sys_package display_value="unapppergiacomo" source="x_414554_unappperg">a4349867db0a5010ece1a0f2ca9619fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="unapppergiacomo">a4349867db0a5010ece1a0f2ca9619fe</sys_scope>
+        <sys_update_name>sys_sg_icon_ea74d4a7db0a5010ece1a0f2ca961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 15:43:23</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>
